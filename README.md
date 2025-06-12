@@ -28,4 +28,4 @@ Implementação de uma lista ligada simples com os seguintes métodos:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Lapenha/Html-Css.git
+   git clone https://github.com/Lapenha/DSA.git
